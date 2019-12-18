@@ -23,7 +23,6 @@ The appication offer to filter the studyspots after your preferences. It is also
 
  <div>
 <img class="ui medium right floated rounded image" src="../images/FullSM.png" style="width:400px;">
-</div>
 This is the frontpage of the webapplication.
 </div>
 <br/>
