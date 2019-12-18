@@ -42,4 +42,4 @@ Unfortunately we had some issue regarding getting the right data from the databa
 Disregard this, I learned a lot during this project. We used agile project management as progress method, and I must admit I really like the way of develop a project. We broke the project in to three periods, where each periods work was based on what we did in the last period. By doing this, we could costumize the work after the unpredicted problems that occured during the project.
 
 <br/>
-If you would like to check out our webpage, click <a href="http://studious.toomanyco.ws/#/">here </a>, and if you would like to read more about the project, click click <a href="https://studious-manoa.github.io/">here </a>
+If you would like to check out our webpage, click <a href="http://studious.toomanyco.ws/#/">here </a>, and if you would like to read more about the project, click click <a href="https://studious-manoa.github.io/">here. </a>
