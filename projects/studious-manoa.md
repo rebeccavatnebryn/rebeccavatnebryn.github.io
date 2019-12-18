@@ -24,11 +24,12 @@ Studious Manoa is a webapplication developed as a school project. The purpose of
  <div>
 <img class="ui medium right floated rounded image" src="../images/FullSM.png" style="width:400px;">
 </div>
+</br>
 
 <h3>My experience</h3>
 
  <div>
-<img class="ui medium right floated rounded image" src="../images/profile.png" style="width:200px;">
+<img class="ui medium right floated rounded image" src="../images/profile.png" style="width:300px;">
 </div>
 
  <div>
