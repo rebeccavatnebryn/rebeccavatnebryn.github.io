@@ -18,7 +18,7 @@ This fall 2019, I took a class (ICS 314) about web development in a software eng
 <img class="ui medium right floated rounded image" src="../images/github.png" style="width:200px;">
 The first concept we got introduced to was github. Github is <a href="https://searchitoperations.techtarget.com/definition/GitHub">"an open source code mangement system"</a>, where it´s possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, which makes it easy to go back in case something went wrong or to see who did what.
 
-In this class we learned a lot of the features that github offers. We created a professional portofolio, made our own webpages and at the end of the semester we made a web application in a group using github as tool. I think that knowing how to use github will benefit me in the future, since I most likely will use it again. 
+In this class we learned a lot of the features that github offers. We created a professional portofolio, made our own webpages and at the end of the semester we developed a web application in a group using github as tool. I think that knowing how to use github will benefit me in the future, since I most likely will use it again. 
 
 	
 <h3>Agile project management</h3>
