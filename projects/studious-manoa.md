@@ -29,7 +29,7 @@ The appication offer to filter the studyspots after your preferences. It is also
 <div>
 <img class="ui medium right floated rounded image" src="../images/profile.png" style="width:200px;">
 </div>
-The project is made by a group of five people and we have been working of the project for approximately five weeks. 
+The project is made by a group of five people and we have been working with the project for approximately five weeks. 
 
 I have been mainly working with the profile page and edit profile page.  
 
