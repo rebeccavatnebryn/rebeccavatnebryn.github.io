@@ -16,7 +16,7 @@ This fall 2019, I took a class (ICS 314) about web development in a software eng
 
 <h3>Github</h3>
 <img class="ui medium right floated rounded image" src="../images/github.png" style="width:200px;">
-The first concept we got introduced to was github. Github is <a href="https://searchitoperations.techtarget.com/definition/GitHub">"an open source code mangement system"</a>, where it´s possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, which makes it easy to go back in case something went wrong or to see who did what.
+The first concept we got introduced to was github. Github is a open source software development system, where it´s possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, which makes it easy to go back in case something went wrong or to see who did what.
 
 In this class we learned a lot of the features that github offers. We created a professional portofolio, made our own webpages and at the end of the semester we developed a web application in a group using github as tool. I think that knowing how to use github will benefit me in the future, since I most likely will use it again. 
 
@@ -30,7 +30,6 @@ The things I´ve learned from this course is definitely the whole package. By th
 
 
 <h3>Sources </h3>
-https://searchitoperations.techtarget.com/definition/GitHub
 https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
 https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
 https://www.piqsels.com/en/search?q=coding
