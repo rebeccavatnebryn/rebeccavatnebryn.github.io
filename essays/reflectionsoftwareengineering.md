@@ -10,12 +10,12 @@ labels:
   - Frameworks 
   - Agile project management
 ---
-<img class="ui medium left floated rounded image" src="../images/code.jpg" style="width:200px;">
+<img class="ui medium left floated rounded image" src="../images/code.jpg" style="width:250px;">
 This fall 2019, I took a class (ICS 314) about web development in a software engineering aspect, and I do not regret that! When I started this semester I thought we were just going to learn about web development. It turned out not to be the case. Don´t get me wrong, I learned a lot about web development, but I learned so much more than just the understadning of HTML, CSS and javascript. We learned about several different concepts, which put together gave me a much deeper understanding of software engineering. 
 
 
 <h3>Github</h3>
-<img class="ui medium left floated rounded image" src="../images/github.png" style="width:200px;">
+<img class="ui medium right floated rounded image" src="../images/github.png" style="width:200px;">
 The first concept we got instroduced to was github. Github is <a href="https://searchitoperations.techtarget.com/definition/GitHub">"an open source code mangement system"</a>, where its possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, which makes it easy to go back in case something went wrong or just to see who did what.
 
 In this class we learned a lot of the features that github offers. We sat up an professional portofolio, made our own webpages and at the end of the semester we made a web application in a group using github as tool. I think that knowing how to use github will benefit me in the future, since I most likely will use it again. 
