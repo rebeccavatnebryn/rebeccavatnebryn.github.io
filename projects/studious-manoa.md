@@ -26,21 +26,20 @@ Students often go to the same places to study and aren´t aware of all the possi
 The appication offer to filter the studyspots after your preferences. It is also possible to rate and post comments about the different study spots. This will make the students more aware of how the different study spots are and for example if it´s full.
 
 <h3>My experience</h3>
+<div>
+<img class="ui medium right floated rounded image" src="../images/profile.png" style="width:300px;">
+</div>
 The project is made by a group of five people and we have been working of the project for approximately five weeks. 
 
 I have been mainly working with the profile page and edit profile page.  
 
-<div>
-<img class="ui medium right floated rounded image" src="../images/profile.png" style="width:300px;">
-</div>
-
-Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that the data from the sign up/sign in page wasn´t stored in the same place as the profiles 
+Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that we could not load the right data from the sign up/sign in page, because they were located differently.
  
  <div>
-<img class="ui medium floated image" src="../images/editProfile.png" style="width:200px;">
+<img class="ui medium floated image" src="../images/editProfile.png" style="width:300px;">
 </div>
 
-I learned a lot during this project, especially about agile project management. I must admit that I really 
+Disregard this, I learned a lot during this project, especially about agile project management. I must admit that I really 
 
 <br/>
 If you would like to check out our webpage, click <a href="http://studious.toomanyco.ws/#/">here </a>, and if you would like to read more about the project, click click <a href="https://studious-manoa.github.io/">here </a>
