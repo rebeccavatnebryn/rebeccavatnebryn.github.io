@@ -31,7 +31,7 @@ The appication offer to filter the studyspots after your preferences. It is also
 </div>
 The project is made by a group of five people and we have been working with the project for approximately five weeks. 
 
-I have been mainly working with the profile page and edit profile page.  
+To start with I worked with the user interface and figured out theme and colors. I worked with designing mockups for the general layout to the page. I also made the logo to the front page. After that I designed the profile page and edit profile page, and gave it functionality.
 
 Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that we could not load the right data from the spesific user from the sign up/sign in page, because the data were located at different locations.
  
