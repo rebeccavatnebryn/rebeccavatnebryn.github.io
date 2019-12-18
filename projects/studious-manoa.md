@@ -26,7 +26,7 @@ The appication offer to filter the studyspots after your preferences. It is also
 </div>
 This is the frontpage of the webapplication.
 </div>
-</br>
+<br/>
 
 <h3>My experience</h3>
 
