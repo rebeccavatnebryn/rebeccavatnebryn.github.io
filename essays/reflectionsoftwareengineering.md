@@ -29,7 +29,7 @@ The things I´ve learned from this course is definitely the whole package. By th
 
 
 
-<h3>Source: </h3>
+<h3>Sources </h3>
 https://searchitoperations.techtarget.com/definition/GitHub
 https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
 https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
