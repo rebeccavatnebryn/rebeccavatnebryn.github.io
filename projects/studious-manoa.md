@@ -15,7 +15,7 @@ summary: A webpage where students can check avaiability on the different studysp
 ---
 
 <h3>Overview</h3>
-Studious Manoa is a webapplication developed as a school project. The purpose of the webpage is to make it easier for students at UH Manoa to find a place to study more effectively. 
+Studious Manoa is a webapplication developed as a school project. The purpose of the webpage is to make it easier for students at UH Manoa to find a place to study, more effectively. 
 
  <div>
 <img class="ui medium right floated rounded image" src="../images/FullSM.png" style="width:400px;">
