@@ -31,6 +31,6 @@ The things I´ve learned from this course is definitely the whole package. By th
 
 <h3>Sources </h3>
 <a href="https://www.apm.org.uk/resources/find-a-resource/agile-project-management/">Agile project management</a><br/>
-Github picture <a href="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg">here.</a><br/>
-Coding picture <a href="https://www.piqsels.com/en/search?q=coding">here.</a>
+Github picture found <a href="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg">here.</a><br/>
+Coding picture found <a href="https://www.piqsels.com/en/search?q=coding">here.</a>
 
