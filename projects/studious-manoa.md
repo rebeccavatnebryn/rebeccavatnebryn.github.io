@@ -36,7 +36,7 @@ I have been mainly working with the profile page and edit profile page.
 Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that we could not load the right data from the sign up/sign in page, because they were located differently.
  
  <div>
-<img class="ui medium right floated rounded image" src="../images/editProfile.png" style="width:400px;">
+<img class="ui medium right floated rounded image" src="../images/editProfile.png" style="width:450px;">
 </div>
 
 Disregard this, I learned a lot during this project. We used agile project management as progress method, and I must admit I really like the way of develop a project. We broke the project in to three periods, where each periods work was based on what we did in the last period. By doing this, we could costumize the work after the unpredicted problems that occured during the project.
