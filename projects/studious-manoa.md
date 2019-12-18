@@ -33,7 +33,7 @@ The project is made by a group of five people and we have been working with the 
 
 I have been mainly working with the profile page and edit profile page.  
 
-Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that we could not load the right data from the sign up/sign in page, because they were located differently.
+Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that we could not load the right data from the spesific user from the sign up/sign in page, because the data were located at different locations.
  
  <div>
 <img class="ui medium right floated rounded image" src="../images/editProfile.png" style="width:400px;">
