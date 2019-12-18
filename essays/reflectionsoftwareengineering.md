@@ -22,15 +22,16 @@ In this class we learned a lot of the features that github offers. We sat up an 
 
 	
 <h3>Agile project management</h3>
-When we were about to create our final project, we got introduced to agile project management. That is DEFINISJON. Within agile project management we used the process IDPM, with stands for Issue driven project management. This is guidelines that help you and your team to 
+When we were about to create our final project, we got introduced to agile project management. That is an life cycle approach where you have iterative steps to get to the final project. This will make it easier to justify things is a problem occure, and not at the end of the project. Within agile project management we used the process IDPM, with stands for Issue driven project management. This is guidelines that help you and your team to 
 
 
-The things I´ve gotten out of this course is defenetly the whole package. By that I mean learning little bit of a everything and then use that to put it together. For example without the agile project management part, I would not have learned how to set up a project to start with and how to delegete and furhter develop the project. I think that most of the content in this course is tranferable into mye future job, even though I don´t necessarily will work spesificly with webdevelopment. 
+The things I´ve gotten out of this course is defenetly the whole package. By that I mean how I´ve learned about different concept, and then use that  toput it togheter. For example without the agile project management part, I would not have learned how to set up a project to start with and how to delegete and furhter develop the project. I think that most of the content in this course is tranferable into mye future job, even though I don´t necessarily will work spesificly with webdevelopment. 
 
 
 
 <h3>Source: </h3>
 https://searchitoperations.techtarget.com/definition/GitHub
+https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
 https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
 https://www.piqsels.com/en/search?q=coding
 
