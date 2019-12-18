@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: title
+title: Why you should learn Software Engineering!
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
@@ -16,14 +16,16 @@ This fall 2019, I took a class (ICS 314) about web development in a software eng
 
 <h3>Github</h3>
 
-The first concept we got instroduced to was github. Github is "an open source code mangement system", where its possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, s
+The first concept we got instroduced to was github. Github is <a href="https://searchitoperations.techtarget.com/definition/GitHub">"an open source code mangement system"</a>, where its possible to share code and collaborate with others. This was my first meeting with github and it will not be the last. By making it possible to work on the same project at the same time within a group, makes the work much more effective. It is also possible to see all the changes that has been done, which makes it easy to go back in case something went wrong or just to see who did what.
 
-In this class we learned a lot of the features that github offers. We sat up an professional portofolio, made our own webpages and at the end of the semester we made a web application in a group using github as tool.
+In this class we learned a lot of the features that github offers. We sat up an professional portofolio, made our own webpages and at the end of the semester we made a web application in a group using github as tool. I think that knowing how to use github will benefit me in the future, since I most likely will use github again. 
 
-	
 	
 <h3>Agile project management</h3>
+When we were about to create our final project, we got introduced to agile project management. That is DEFINISJON. Within agile project management we used the process IDPM, with stands for Issue driven project management. This is guidelines that help you and your team to 
 
+
+The things I´ve gotten out of this course is defenetly the whole package. By that I mean learning little bit of a everything and then use that to put it together. For example without the agile project management part, I would not have learned how to set up a project to start with and how to delegete and furhter develop the project. I think that most of the content in this course is tranferable into mye future job, even though I don´t necessarily will work spesificly with webdevelopment. 
 
 
 
