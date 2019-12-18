@@ -34,10 +34,10 @@ I have been mainly working with the profile page and edit profile page.
 <img class="ui medium right floated rounded image" src="../images/profile.png" style="width:300px;">
 </div>
 
-Unfortunately we had some issue regarding the getting data from the database close to the deadline, so it resulted in that we removed the whole profile page. 
+Unfortunately we had some issue regarding getting the right data from the database close to the deadline. This resulted in that we removed the whole profile page, but here are some screenshots of what it looked like. The problem was that the data from the sign up/sign in page wasn´t stored in the same place as the profiles 
  
  <div>
-<img class="ui medium right floated rounded image" src="../images/editProfile.png" style="width:400px;">
+<img class="ui medium floated image" src="../images/editProfile.png" style="width:200px;">
 </div>
 
 I learned a lot during this project, especially about agile project management. I must admit that I really 
