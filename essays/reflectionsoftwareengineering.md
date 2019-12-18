@@ -3,11 +3,11 @@ layout: essay
 type: essay
 title: Why you should learn Software Engineering!
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-13
+date: 2019-12-18
 labels:
   - Software engineering
   - Web development 
-  - Frameworks 
+  - Github 
   - Agile project management
 ---
 <img class="ui medium left floated rounded image" src="../images/code.jpg" style="width:250px;">
@@ -25,7 +25,7 @@ In this class we learned a lot of the features that github offers. We sat up an 
 When we were about to create our final project, we got introduced to agile project management. That is a life cycle approach where you have iterative steps to get to the final result. It will make it easier to change things when a problem occure, and not at the end of the project. Within agile project management we used the process IDPM, with stands for Issue driven project management. This is guidelines that help you and your team to break down the project in to smaller tasks. We used github to create three milestones (three periods). Within each milestone we created issues realted to where we were in the process. Based on the previous milestone, we made the issue realted to where we were in the process.
 
 
-The things I´ve gotten out of this course is definitely the whole package. By that I mean how I´ve learned about different concept, and then use that  toput it togheter. For example without the agile project management part, I would not have learned how to set up a project to start with and how to delegete and furhter develop the project. I think that most of the content in this course is tranferable into mye future job, even though I don´t necessarily will work spesificly with webdevelopment. 
+The things I´ve learned from this course is definitely the whole package. By that I mean how I´ve learned about different concept, and then use that to put it together. For example without the agile project management part, I would not have learned how to set up a project to start with and how to delegete and furhter develop the project. I think that most of the content in this course is tranferable into mye future job, even though I don´t necessarily will work spesificly with webdevelopment. 
 
 
 
