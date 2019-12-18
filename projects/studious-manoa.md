@@ -19,7 +19,6 @@ Studious Manoa is a webapplication developed as a school project. The purpose of
 
  <div>
 <img class="ui medium right floated rounded image" src="../images/FullSM.png" style="width:400px;">
-This is the frontpage of the webapplication.
 </div>
 
 Students often go to the same places to study and aren´t aware of all the possible places to study. This webapplication allows the students to find all the different study spots and also to see which ones that are available on campus.
@@ -27,16 +26,21 @@ Students often go to the same places to study and aren´t aware of all the possi
 The appication offer to filter the studyspots after your preferences. It is also possible to rate and post comments about the different study spots. This will make the students more aware of how the different study spots are and for example if it´s full.
 
 <h3>My experience</h3>
-I have been mainly working with the profile page and edit profile page.
- <div>
+The project is made by a group of five people and we have been working of the project for approximately five weeks. 
+
+I have been mainly working with the profile page and edit profile page.  
+
+<div>
 <img class="ui medium right floated rounded image" src="../images/profile.png" style="width:300px;">
-This is a picture of the profiles page.
 </div>
 
+Unfortunately we had some issue regarding the getting data from the database close to the deadline, so it resulted in that we removed the whole profile page. 
+ 
  <div>
 <img class="ui medium right floated rounded image" src="../images/editProfile.png" style="width:400px;">
-This is the edit profile page. 
 </div>
 
+I learned a lot during this project, especially about agile project management. I must admit that I really 
 
+<br/>
 If you would like to check out our webpage, click <a href="http://studious.toomanyco.ws/#/">here </a>, and if you would like to read more about the project, click click <a href="https://studious-manoa.github.io/">here </a>
